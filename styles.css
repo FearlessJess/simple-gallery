@@ -1,6 +1,27 @@
 
 body {
-    background-color: linen
+    background-color: gray;
+ }
+
+ p {
+     font-family: sans-serif;
+ }
+
+ nav {
+     font-family: sans-serif;
+     font-size: larger;
+ }
+
+ a:link {
+     color: black;
+ }
+
+ a:visited {
+     color: black;
+ }
+
+ a:hover {
+     color: white;
 }
 
 .wrapper {
